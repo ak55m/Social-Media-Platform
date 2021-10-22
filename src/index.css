@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fixed-position{
+  position: sticky;
+}
+
+.custom-color-button {
+  color: #8d9f6f;
+}

@@ -13,7 +13,7 @@ const FeedPosts = () => {
                     </div>
                     <div class="ml-2">
                         <div class="h5 m-0">@LeeCross</div>
-                        <div class="h7 text-muted">Miracles Lee Cross</div>
+                        <div class="h7 mr-5 text-muted">Miracles Lee Cross</div>
                     </div>
                 </div>
                 <div>

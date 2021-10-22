@@ -2,8 +2,8 @@ import React from 'react'
 
 const Navbar = () => {
     return (
-<nav class="navbar navbar-light bg-white">
-  <div class="container-fluid">
+<nav class="navbar navbar-light bg-white sticky-top">
+    <div class="container-fluid">
         <a href="#" class="navbar-brand">Social Media</a>
         <form class="form-inline">
             <div class="input-group">
@@ -17,6 +17,7 @@ const Navbar = () => {
         </form>
     </div>
 </nav>
+
 
     )
 }

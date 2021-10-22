@@ -37,7 +37,7 @@ const Post = () => {
                 </div>
                 <div class="btn-toolbar justify-content-between mt-2">
                     <div class="btn-group">
-                        <button type="submit" class="btn btn-primary">Post</button>
+                        <button type="submit" class="btn main-color">Post</button>
                     </div>
                     <div class="btn-group">
                         <button id="btnGroupDrop1" type="button" class="btn btn-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"

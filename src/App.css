@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.fixed-position{
+  position: fixed;
+
+}
+
+.btn.main-color {
+  color: #ffffff;
+  background-color: #8d9f6f;
+}

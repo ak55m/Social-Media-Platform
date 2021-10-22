@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 
 import Navbar from './Header/Navbar';
@@ -13,12 +13,12 @@ function App() {
   return (
     <>
     <Navbar></Navbar>
-    <div class="container-fluid wrapper">
+    <div class="container wrapper">
       <div class="row">
-        <HomeProfile></HomeProfile>
+          <HomeProfile></HomeProfile>
         <div class="col-md-6">
-        <Post></Post>
-        <FeedPosts></FeedPosts>
+          <Post></Post>
+          <FeedPosts></FeedPosts>
         </div>
         <Trending></Trending>
       </div>
